@@ -744,6 +744,13 @@ a {
   object-fit: fill;
 }
 
+.text-block-2 {
+  margin-top: 41px;
+  color: #fce3d4;
+  font-size: 24px;
+  font-weight: 600;
+}
+
 @media screen and (max-width: 991px) {
   h1 {
     font-size: 3.4em;
